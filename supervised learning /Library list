@@ -1,0 +1,18 @@
+# datascience related and general mathmatics modules:
+numpy
+scipy
+matplotlib
+pandas 
+
+# Gneral machine learning algorithm module list:
+scikit learn 
+
+# Deep learning and neural net module
+tensorflow
+keras
+
+# Extra module for scintific researches and others
+pytorch --> not going use directly .. but don't know about the future
+
+# Natural langauge processing related modules
+nltk
